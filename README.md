@@ -151,3 +151,11 @@ Delete `database/waste_management.db` and restart `python app.py` — it will re
 | Charts | Chart.js |
 | Map | Leaflet.js + OpenStreetMap tiles (no API key needed) |
 | Fonts | Space Grotesk (display), Inter (body), JetBrains Mono (data/labels) |
+
+
+## Group Project By       PRN No
+Sanika Arjun Savant.     2023011032083
+Shafika Shakil Nadaf.    2023011032057
+Gauri Anil Chougale.     2023011032011
+D Y Patil Agriculture and Technical University, Talsande
+
